@@ -23,11 +23,10 @@
   cout << s;
 
 * Table
-  | Tables | A | B | C |
-  | ------ |:":|:":| -:|
-  | 0000   | 1 | 0 | 1 |
-  | 0001   | 1 | 1 | 0 |
-  | 0011   | 1 | 1 | 1 |
+  Markdown|Less|Pretty
+  ---|---|---
+  *Still*|'renders'|**nicely**
+  1|2|3
 
 * Quotation
   > This is quotation.
